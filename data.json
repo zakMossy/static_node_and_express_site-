@@ -1,0 +1,62 @@
+{
+
+  "projects":[
+      {"id": 0,
+       "project_name": "A Random Quote Generator",
+       "description": "An app to display random quotes from famous people",
+       "technologies": [
+         "JavaScript", "HTML", "CSS"
+       ],
+       "live_link" : "https://zakmossy.github.io/a_random_quote_generator-v1-1-/",
+       "github_link": "https://github.com/zakMossy/a_random_quote_generator-v1-1-",
+       "image_urls": [
+         "/images/img1.png", "/images/img1square.png"
+       ]
+      },
+      {"id": 1,
+       "project_name": "List Pagination and Filtering",
+       "description": "Adds pagination and filtering to a list",
+       "technologies": [
+         "JavaScript", "HTML", "CSS"
+       ],
+       "live_link" : "https://zakmossy.github.io/PaginationAndFiltering/",
+       "github_link": "https://github.com/zakMossy/PaginationAndFiltering",
+       "image_urls": [
+         "/images/img2.png", "/images/img2square.png"
+       ]},
+      {"id": 2,
+       "project_name": "Interactive Form",
+       "description": "Adding interactivity to a web form that can be validated",
+       "technologies": [
+         "JavaScript", "HTML", "CSS", "jQuery"
+       ],
+       "live_link" : "https://zakmossy.github.io/interactive-form/",
+       "github_link": "https://github.com/zakMossy/interactive-form",
+       "image_urls": [
+         "/images/img3.png", "/images/img3square.png"
+       ]},
+      {"id": 3,
+       "project_name": "OOP Game Show App",
+       "description": "A hangman type mini-game",
+       "technologies": [
+         "JavaScript", "HTML", "CSS", "jQuery"
+       ],
+       "live_link" : "https://zakmossy.github.io/oop-game/",
+       "github_link": "https://github.com/zakMossy/oop-game",
+       "image_urls": [
+         "/images/img4.png", "/images/img4square.png"
+       ]},
+      {"id": 4,
+       "project_name": "Public API Requests",
+       "description": "An app that shows random employees",
+       "technologies": [
+         "JavaScript", "HTML", "CSS", "jQuery", "AJAX"
+       ],
+       "live_link" : "https://zakmossy.github.io/public-api-requests-project/",
+       "github_link": "https://github.com/zakMossy/public-api-requests-project",
+       "image_urls": [
+         "/images/img5.png", "/images/img5square.png"
+       ]},
+  ]
+
+}
